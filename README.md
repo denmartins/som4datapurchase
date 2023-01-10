@@ -4,7 +4,7 @@ Data marketplaces have become popular in recent years, in particular for enterpr
 
 # General Structure
 
-- 'componentplanes.ipynb' is the main code file including examples and results.
-- 'adultdataset_transformation.ipynb' includes data preprocessing steps used to wrangle the adult dataset extracted from https://raw.githubusercontent.com/jbrownlee/Datasets/master/adult-all.csv. 
-- 'src' directory includes utility functions and class definitions used in the notebooks.
-- 'requirements.txt' includes references to required Python packages.
+- `componentplanes.ipynb` is the main code file including examples and results.
+- `adultdataset_transformation.ipynb` includes data preprocessing steps used to wrangle the original adult dataset extracted from https://raw.githubusercontent.com/jbrownlee/Datasets/master/adult-all.csv. 
+- `src` directory includes utility functions and class definitions used in the notebooks.
+- `requirements.txt` includes references to required Python packages.
